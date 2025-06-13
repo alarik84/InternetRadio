@@ -1,9 +1,0 @@
-.pio
-.vscode/*
-include/clientSecrets.h
-include/mqttDiscoveryTopics.h
-include/readme
-lib/*
-test/*
-platformio.ini
-.gitignore
