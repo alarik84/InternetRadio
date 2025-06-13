@@ -2,7 +2,7 @@ ESP32 WROOM32U + PCM5102A CJMCU - 5102
 
 ESP32 two cores internet radio player controlled through MQTT with DAC PCM5102A CJMCU - 5102
 
-![image](https://github.com/user-attachments/assets/9db27aa2-64c3-4bce-af4e-162ca2768aab)
+![image](https://github.com/user-attachments/assets/1917b4eb-8929-41f8-9c3f-94a3b04c314f)
 
 
 Please note, that there is separate loop for second thread. If you have single core ESP32 you have to merge the threads.
