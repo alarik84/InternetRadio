@@ -1,6 +1,6 @@
 ESP32 WROOM32U + PCM5102A CJMCU - 5102
 
-ESP32 two cores internet radio player controlled through MQTT with DAC PCM5102A CJMCU - 5102
+ESP32 two cores with DAC PCM5102A CJMCU - 5102 internet radio player controlled through MQTT
 
 ![image](https://github.com/user-attachments/assets/6e098ecd-b33a-498f-9400-6caf4f009150)
 
